@@ -1,0 +1,1 @@
+# shgm_mevzuat_api
